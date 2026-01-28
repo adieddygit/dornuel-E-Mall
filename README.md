@@ -1,15 +1,15 @@
-# DigiMall E-Commerce
+# dornuel-E-Mall E-Commerce
 
-# 🛒 DigiMall
+# 🛒 dornuel-E-Mall
 
-DigiMall is a modern, scalable e-commerce product catalog built with React, TypeScript, Redux, and Tailwind CSS.  
+dornuel-E-Mall is a modern, scalable e-commerce product catalog built with React, TypeScript, Redux, and Tailwind CSS.  
 It enables users to browse, filter, and sort products efficiently while delivering a smooth and responsive user experience across devices.
 
 ---
 
 ## 📌 Project Overview
 
-DigiMall simulates a real-world e-commerce platform where users can explore products dynamically fetched from an API.  
+dornuel-E-Mall simulates a real-world e-commerce platform where users can explore products dynamically fetched from an API.  
 The project emphasizes frontend best practices such as performance optimization, state management, and responsive UI design.
 
 ---
